@@ -1,0 +1,1 @@
+Convert input number with given base to new base n, does not account for when remainder is represented by a character
